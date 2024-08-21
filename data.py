@@ -11,3 +11,8 @@ order_body = {
         "comment": "Saske, come back to Konoha",
         "color": ["BLACK"]
     }
+
+# Параметр в запросе для получения данных заказа по трек-номеру
+params_get = {
+    "t": ""
+}
